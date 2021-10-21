@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092496336119",
+    "project_id": "otopuan-81bd5",
+    "storage_bucket": "otopuan-81bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092496336119:android:0748296f838a6c06215ff2",
+        "android_client_info": {
+          "package_name": "com.example.otopuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092496336119-lm5subp6sguu30grvf7jbohv8dja03p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otopuan",
+            "certificate_hash": "e05c2b306d7cf23fc5472016c2ca0660b561a246"
+          }
+        },
+        {
+          "client_id": "1092496336119-f4jvloa0f0hvf9m9ihesk1v91derqh72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hLc-nxfoYmPvp3I86GQTQEX2eyLA7bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092496336119-f4jvloa0f0hvf9m9ihesk1v91derqh72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
